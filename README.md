@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-https://github-readme-streak-stats.herokuapp.com/?user=Extirpater
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Extirpater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extirpater&layout=compact&theme=vision-friendly-dark (https://github.com/extirpater/github-readme-stats)
+
 
 <a href="https://kaggle.com/sshikamaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sshikamaru" height="30" width="40" /></a>
 
