@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Extirpater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -35,5 +35,6 @@
 </p>
 
 
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=extirpater&show_icons=true&locale=en" alt="extirpater" /></p>
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Extirpater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=extirpater&show_icons=true&locale=en" alt="extirpater" /></p>
