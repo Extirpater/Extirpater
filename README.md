@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align = "center">
-
 <a href="https://kaggle.com/sshikamaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sshikamaru" height="30" width="40" /></a>
 </p>
 <p align = "center">
