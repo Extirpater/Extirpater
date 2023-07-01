@@ -1,3 +1,5 @@
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
 <a href="https://kaggle.com/sshikamaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sshikamaru" height="30" width="40" /></a>
 
 <p align = "center">
